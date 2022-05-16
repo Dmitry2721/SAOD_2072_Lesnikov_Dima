@@ -1,0 +1,11 @@
+C:\Users\dmitrijlesnikov\source\repos\Seminar1_Stack\bin\Debug\Seminar1_Stack.exe.config
+C:\Users\dmitrijlesnikov\source\repos\Seminar1_Stack\bin\Debug\Seminar1_Stack.exe
+C:\Users\dmitrijlesnikov\source\repos\Seminar1_Stack\bin\Debug\Seminar1_Stack.pdb
+C:\Users\dmitrijlesnikov\source\repos\Seminar1_Stack\obj\Debug\Seminar1_Stack.csproj.AssemblyReference.cache
+C:\Users\dmitrijlesnikov\source\repos\Seminar1_Stack\obj\Debug\Seminar1_Stack.csproj.SuggestedBindingRedirects.cache
+C:\Users\dmitrijlesnikov\source\repos\Seminar1_Stack\obj\Debug\Seminar1_Stack.Form1.resources
+C:\Users\dmitrijlesnikov\source\repos\Seminar1_Stack\obj\Debug\Seminar1_Stack.Properties.Resources.resources
+C:\Users\dmitrijlesnikov\source\repos\Seminar1_Stack\obj\Debug\Seminar1_Stack.csproj.GenerateResource.cache
+C:\Users\dmitrijlesnikov\source\repos\Seminar1_Stack\obj\Debug\Seminar1_Stack.csproj.CoreCompileInputs.cache
+C:\Users\dmitrijlesnikov\source\repos\Seminar1_Stack\obj\Debug\Seminar1_Stack.exe
+C:\Users\dmitrijlesnikov\source\repos\Seminar1_Stack\obj\Debug\Seminar1_Stack.pdb
